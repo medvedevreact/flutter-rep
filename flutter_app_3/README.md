@@ -1,7 +1,7 @@
-# Вторая практика ПКС
+# Третья практика ПКС
 
 
 ### Screens
 
-<img src = "/-static/скрин_главная.jpg.png"/>
-<img src = "/-static/скрин_товар.jpg.png"/>
+<img src = "/-static/скрин_главная.jpg"/>
+<img src = "/-static/скрин_товар.jpg"/>
