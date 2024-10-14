@@ -80,10 +80,10 @@ class _AddProductPageState extends State<AddProductPage> {
                       imageUrlController.text.isNotEmpty) {
                     final newDevice = Device(
                       DateTime.now().millisecondsSinceEpoch,
-                      titleController.text,
+                      descriptionController.text,
                       int.parse(quantityController.text),
                       categoryController.text,
-                      descriptionController.text,
+                      titleController.text,
                       int.parse(priceController.text),
                       imageUrlController.text,
                     );
