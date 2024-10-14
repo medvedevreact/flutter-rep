@@ -3,5 +3,5 @@
 
 ### Screens
 
-<img src = "/-static/ГлавнаяСтраница.png"/>
+<img src = "/-static/ГлавнаяСтраницаФото.png"/>
 <img src = "/-static/СтраницаДобавления.png"/>
