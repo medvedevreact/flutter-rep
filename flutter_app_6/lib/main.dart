@@ -3,7 +3,7 @@ import '../pages/home_page.dart';
 import '../pages/like_page.dart';
 import '../models/device.dart';
 import '../pages/profile_page.dart';
-import '../models/profile.dart';
+import '../models/product.dart';
 import '../pages/cart_page.dart';
 import '../models/cart_item.dart';
 

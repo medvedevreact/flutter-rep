@@ -1,4 +1,4 @@
-// lib/models/profile.dart
+// lib/models/product.dart
 class Profile {
   String name;
   String email;

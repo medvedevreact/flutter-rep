@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/profile.dart';
+import '../models/product.dart';
 import '../pages/edit_page.dart';
 
 class ProfilePage extends StatefulWidget {
