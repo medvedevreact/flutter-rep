@@ -25,4 +25,11 @@
 <img src = "/-static/ДобавлениеТовара_1.png"/>
 <img src = "/-static/ДобавлениеТовара_2.png"/>
 
+Запросы
+
+<img src = "/-static/Запросы_1.png"/>
+<img src = "/-static/Запросы_2.png"/>
+
+
+
 
