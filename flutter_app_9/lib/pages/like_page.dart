@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
 import '../models/device.dart';
 import '../components/device_component.dart';
+import '../api/instance.dart';
 
 class LikePage extends StatelessWidget {
   final List<Device> favoriteDevices;
   final Function(Device) addToCart;
+  final ApiService apiService;
 
-  const LikePage({super.key, required this.favoriteDevices, required this.addToCart});
+  const LikePage({
+    super.key,
+    required this.favoriteDevices,
+    required this.addToCart,
+    required this.apiService,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -34,6 +41,7 @@ class LikePage extends StatelessWidget {
               device: favoriteDevices[index],
               onFavoriteToggle: (isFavorite) {},
               addToCart: addToCart,
+              apiService: apiService,
             );
           },
         ),

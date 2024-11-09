@@ -12,10 +12,10 @@ class ApiService {
         List<Device> devices = data.map((item) => Device.fromJson(item)).toList();
         return devices;
       } else {
-        throw Exception('Failed to load devices');
+        throw Exception('Ошибка при загрузке');
       }
     } catch (e) {
-      throw Exception('Failed to load devices: $e');
+      throw Exception('Ошибка при загрузке: $e');
     }
   }
 }
