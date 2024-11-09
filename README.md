@@ -21,3 +21,5 @@
 * [flutter_app_7](flutter_app_7/README.md)
 
 * [flutter_app_8](flutter_app_8/README.md)
+
+* [flutter_app_9](flutter_app_9/README.md)
